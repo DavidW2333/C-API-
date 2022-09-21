@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Dtos",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\StaffPhotos"
+  ],
+  "SelectedNode": "\\Controllers\\StaffController.cs",
+  "PreviewInSolutionExplorer": false
+}
